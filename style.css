@@ -1,0 +1,84 @@
+.heading{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Orbitron', sans-serif;
+    color: rgb(6, 114, 216);
+}
+.background-color{
+    background-color: black;
+    margin-top: 120px;
+    padding-bottom: 80px;
+    padding-top: 50px;
+}
+.time{
+    margin-top: 20px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.time p{
+    display: inline-block;
+    font-size: 50px;
+    margin-top: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    font-weight: bold;
+    color: #08f7fe;
+    text-shadow: 0 0 80px #08f7fe;    
+ font-family: 'Stardos Stencil', cursive;;
+    
+}
+.icons{
+    text-align: center;
+    margin-top: 40px;
+}
+
+.icons h5{
+    display: inline-block;
+     font-family: 'Orbitron', sans-serif;
+     padding-left: 40px;
+     padding-right: 32px;
+     margin-left: 20px;
+     color: #08f7fe;
+    
+
+}
+
+.buttons button{
+    
+    border-radius: 100px;
+    padding: 30px 26px 30px 26px;
+  
+}
+.button1{
+    color: red;
+    margin-right: 30px;
+    text-shadow: 0 0 80px #08f7fe; 
+
+}
+.button1:hover{
+    background-color: rgb(180, 74, 74);
+    color: whitesmoke;
+    text-shadow: 0 0 80px #08f7fe inset; 
+}
+
+.button2{
+    color: darkgreen;
+}
+.button2:hover{
+    background-color: rgb(214, 188, 41);
+    color: whitesmoke;
+}
+.button3{
+    color: darkmagenta;
+    margin-left: 30px;
+}
+.button3:hover{
+    color: whitesmoke;
+    background-color: rgb(14, 127, 138);
+}
+.buttons{
+    text-align: center;
+    
+    
+}
